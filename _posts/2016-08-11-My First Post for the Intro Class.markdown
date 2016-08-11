@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Post for the Intro Class
+title: "My First Post for the Intro Class"
 date:2016-08-11 06:32:00 -0600
 Categories: Intro Class
 ---
