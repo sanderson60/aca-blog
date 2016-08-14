@@ -7,14 +7,22 @@ Categories: Intro Class
 Lesson 1
 The intro class began with the setup of our environment.  We setup our Github and forked our projects for the intro class, atom and google environments.  This was all new to me so it was a bit intimidating but I was able to keep up.  We met our instructors and they are both very knowledgeable and yet very approachable.  We could not ask for better instructors.
 
-Lesson 2 
-As with every class there is homework and that was accomplished for this class.  There is reading and an exercise to complete. 
-
-we needed to accomplish:
+As with every class there is an assignment to complete for this class our homework was to:
 Pre-work Quiz
 Reading assignments:
   W3School HTML
   W3School Tags
+
+Lesson 2 
+As with every class there is homework and that was accomplished for this class.  There is reading and an exercise to complete. 
+
+Our homework for this class was:
+Create a Biography Website
+Reading assignments:
+  Semantic HTML
+  W3School - Semantic HTML5
+  HTML5 semantic elements
+  HTML5 semantics
 
 In class we began looking at HTML and the elements that will be used.  During the practical portion we created our first website.  We always work in pairs and it is nice to have someone to share ideas with and to bounce ideas off of.  
 
