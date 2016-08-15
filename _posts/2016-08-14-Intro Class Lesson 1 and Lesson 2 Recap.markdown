@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intro Class Lesson 1 and Lesson 2 Recap"
+title: "Intro Class Lesson 1 and 2 Recap"
 date: 2016-08-14 15:15:00 -0600
 Categories: Intro Class
 ---
