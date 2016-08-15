@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lesson 3 and 4 Recap"
+title: "Intro Class Lesson 3 and 4 Recap"
 date: 2016-08-15 06:16:00 -0600
 Categories: Intro Class
 ---
