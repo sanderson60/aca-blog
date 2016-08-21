@@ -9,11 +9,11 @@ Lesson 5 in our class was Checkpoint 1.  We had to recreate a website and were p
 
 As with all classes we did have homework and had to continue to work on our pages and of course complete reading for the next class.
 
-Our Reading was:
-..*
-1. Tutsplus - The 30 CSS selectors you must memorize
-2. Understanding Style Precedence in CSS
-3. W3School - CSS Selector
-4. Why Specificity Matters
+Our Reading was:  
+
+  *1. Tutsplus - The 30 CSS selectors you must memorize
+  *2. Understanding Style Precedence in CSS
+  *3. W3School - CSS Selector
+  *4. Why Specificity Matters
 
 The classes are getting more intense and I am looking forward to all of them.  It is a bit difficlult to get everything in on time but I am still keeping up with assignments, working fulltime and being present in my home life.  All very challenging.
