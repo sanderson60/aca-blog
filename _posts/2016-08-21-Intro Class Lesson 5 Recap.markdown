@@ -11,9 +11,12 @@ As with all classes we did have homework and had to continue to work on our page
 
 Our Reading was:  
 
-  *1. Tutsplus - The 30 CSS selectors you must memorize
-  *2. Understanding Style Precedence in CSS
-  *3. W3School - CSS Selector
-  *4. Why Specificity Matters
+Tutsplus - The 30 CSS selectors you must memorize
+
+Understanding Style Precedence in CSS
+
+W3School - CSS Selector
+
+Why Specificity Matters
 
 The classes are getting more intense and I am looking forward to all of them.  It is a bit difficlult to get everything in on time but I am still keeping up with assignments, working fulltime and being present in my home life.  All very challenging.
