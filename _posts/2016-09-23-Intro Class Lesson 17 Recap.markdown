@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intro Class Lesson 15"
+title: "Intro Class Lesson 17"
 date: 2016-09-23 07:15:00 -0600
 Categories: Intro Class
 ---
